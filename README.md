@@ -33,6 +33,10 @@ EC2(Elastic Compute Cloud),ALB(Application Load balancer),CloudFlare,AWS WAF(Web
 ## Conclusion
 In Conclusion, the SAAS project introduced here holds the promise of becoming a valuable platform for aspiring authors, researchers, and content creators looking to share their work with a broader audience. With a user-friendly web application, it will provide a space for individuals to publish and distribute their books, novels, theses, research papers, and personal views. The project's key objectives include content management, e-commerce functionality, distribution, and the promotion of user-generated content.
 
+## PPT Link 
+https://docs.google.com/presentation/d/1eAGSn8LaCvLgnque50CXHSbds4sik6DD-Rax3sPITEs/edit#slide=id.p
+
+
 
 
 
